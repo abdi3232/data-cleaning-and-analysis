@@ -9,4 +9,7 @@ For missing dates, generated synthetic random dates
 the cleaned dataset is then saved into 'dirty_cafe_sales-cleaned.csv'
 The new dataset is loaded into 'Visualizationfile'
 the new file produces insights from the data such as :
-1. 
+1. Item sales by month
+2. Revenue by month
+3. Revenue from each item
+4. Sales distribution by item
